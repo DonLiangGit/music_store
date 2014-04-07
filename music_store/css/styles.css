@@ -1,0 +1,11 @@
+.item-price {
+  margin:7px 5px;
+  dislay:incline-block;
+  font-szie: 13px;
+  font-weight: bold;
+  border-radius:5px;
+  background: #16cbe6;
+  color:#fff;
+  width:40px;
+  text-align: center;
+}

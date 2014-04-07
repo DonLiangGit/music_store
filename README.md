@@ -1,9 +1,9 @@
-music_store
+Music_store
 ===========
 
-COEN 280 Database course project
+COEN 280 Database course project - online music store .
 
-Introduction
+introduction
 ===========
 
 

@@ -1,6 +1,9 @@
 music_store
 ===========
 
-grad project for Database course
+COEN 280 Database course project
+
+Introduction
+===========
 
 
